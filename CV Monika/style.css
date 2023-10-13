@@ -1,0 +1,154 @@
+body {
+    background: rgb(255, 255, 255);
+    font-family: "monsterrat" sans-serif;
+    line-height: 1.4em;
+
+}
+
+.wraper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: auto;
+    background-color: #f2d3d54d;
+    box-shadow: 6px 6px 20px black;
+
+}
+
+aside {
+    background-color: #bfc51e;
+    width: 370px;
+    margin: 20px;
+
+
+}
+
+.photo {
+    margin-top: 40px;
+
+}
+
+.blok_aside {
+    margin-left: 30px;
+
+
+}
+
+.blok_ul {
+    margin-left: -15px;
+
+
+}
+
+.contact {
+
+    color: rgb(2, 48, 48);
+}
+
+a {
+    color: teal;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: rgb(196, 135, 55);
+}
+
+.info_contacts {
+
+    width: 6px;
+    margin-left: 8px;
+}
+
+.tel {
+    margin: 0px 8px;
+}
+
+.info_contacts_email {
+    width: 20px;
+
+}
+
+ul {
+    color: rgb(196, 135, 55);
+    list-style-type: inherit;
+    color-scheme: black;
+}
+
+.blok_aside_ul {
+    color: rgb(2, 48, 48);
+    text-align: justify;
+
+
+}
+
+main {
+    padding: 102px 88px;
+    word-spacing: 0.1em;
+    text-align: justify;
+}
+
+
+.description {
+    width: 500px;
+    padding-bottom: 15px;
+
+
+}
+
+.description p {
+    color: rgb(67, 74, 74);
+}
+
+.job-title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 10px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 40px;
+
+}
+
+main h2 {
+   
+        font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    font-style: normal
+}
+
+ol {
+    margin-left: -20px;
+    padding-bottom: 20px;
+}
+
+.projects {
+    margin-left: 10px;
+}
+
+main h3{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.work_name{
+    color: #8b8f0e;
+}
+main p{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+main ul{
+    margin-left: -15px;
+}
+.name_link{
+    color: rgb(4, 2, 0);
+}
